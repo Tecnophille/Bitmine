@@ -1,0 +1,129 @@
+.bg-main {
+    background-color: #7707CF;
+}
+
+.bg-main-light {
+    background-color: #9B4BFF;
+}
+
+.bg-grey {
+    background-color: #D6D6D6;
+}
+
+.btn-main {
+    background-color: #7707CF;
+    color: #fff;
+
+    border: none;
+    text-decoration: none;
+}
+
+
+.btn-small {
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+    text-decoration: none;
+}
+
+.btn-medium {
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    text-decoration: none;
+}
+
+.btn-large {
+    padding: 15px 30px;
+    border-radius: 10px;
+    border: none;
+    text-decoration: none;
+}
+
+.btn-main-outline {
+    background-color: transparent;
+    color: #7707CF;
+    border: 1px solid #7707CF;
+    text-decoration: none;
+}
+
+.btn-main-outline:focus {
+    background-color: #40086b;
+    color: #fff;
+}
+
+.btn-main-outline:hover {
+    background-color: #7707CF;
+    color: #fff;
+}
+
+.btn-main:focus {
+    background-color: #40086b;
+    color: #fff;
+}
+
+.btn-main:hover {
+    background-color: #9B4BFF;
+    color: #fff;
+}
+
+.btn-main-light {
+    background-color: #9B4BFF;
+    color: #fff;
+}
+
+.bg-main-light {
+    background-color: #9B4BFF;
+}
+
+.text-main {
+    color: #7707CF;
+    text-decoration: none
+}
+
+.text-main-light {
+    color: #9B4BFF;
+}
+
+.active {
+    background-color: #7707CF;
+    color: #fff;
+}
+
+.inactive {
+    background-color: #e2dede;
+    ;
+    color: #fff;
+}
+
+.btn-gradient {
+    background: linear-gradient(90deg, #7707CF 0%, #9B4BFF 100%);
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    text-decoration: none;
+}
+
+.btn-gradient:hover {
+    background: #7707CF;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    text-decoration: none;
+}
+
+.radio-btn {
+    accent-color: #7707CF;
+}
+
+.checkbox-btn {
+    accent-color: #7707CF;
+}
+
+input {
+    accent-color: #7707CF;
+}
+
+.border-outline {
+    border: 1px solid #7707CF;
+}
